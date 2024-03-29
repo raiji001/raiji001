@@ -12,13 +12,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![MasterHead]([myBanner.png](https://media.licdn.com/dms/image/C4D12AQESj72-s5gEKg/article-cover_image-shrink_600_2000/0/1626753867110?e=2147483647&v=beta&t=Kf7YAuwZtyCGYLNch-Mgc5eOC-7h7uL_dnBAIgsAFRQ))
+![MasterHead](https://media.licdn.com/dms/image/C4D12AQESj72-s5gEKg/article-cover_image-shrink_600_2000/0/1626753867110?e=2147483647&v=beta&t=Kf7YAuwZtyCGYLNch-Mgc5eOC-7h7uL_dnBAIgsAFRQ)
 <h1 align="center">🙏🏻 Pranaam Dosto! I'm VISHEH RAI</h1>
-<h3 align="center">A passionate Data Analyst from India..</h3>
+<h3 align="center">A passionate and results-driven data Analyst with expertise in extracting valuable insights from complex datasets.</h3>
 
-<img align="right" alt="Coding" width="400px" src="https://camo.githubusercontent.com/091162bac03d91045aa04ef43fe38ca968df15d17825b5a496c5263b386d48bb/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f39312f31362f38622f39313136386234383733663636353962336539666466653462383963643836342e676966">
+
 
 # 👨🏻‍💻 About Me :
+<img align="right" alt="Coding" width="420px" src="https://camo.githubusercontent.com/091162bac03d91045aa04ef43fe38ca968df15d17825b5a496c5263b386d48bb/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f39312f31362f38622f39313136386234383733663636353962336539666466653462383963643836342e676966">
 
 - 🔭 Currently working on **Power BI,LLM,BERT,Transformers,GPT**
 
@@ -55,6 +56,5 @@ Here are some ideas to get you started:
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=raiji001&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=raiji001&theme=vue-dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=raiji001&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-____________
-[![](https://visitcount.itsvg.in/api?id=raiji001&label=Profile%20Visit&pretty=false)](https://visitcount.itsvg.in)
+
+[![](https://visitcount.itsvg.in/api?id=raiji001&label=Profile%20Visit's&color=12&icon=0&pretty=true)](https://visitcount.itsvg.in)
